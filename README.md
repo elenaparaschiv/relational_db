@@ -10,8 +10,8 @@ to answer the stakeholder questions
 
 
 ## Files
-    relational_db.sql contains the file that can be imported into MSQL to create the database and the tables 
+relational_db.sql contains the file that can be imported into MSQL to create the database and the tables 
 
-    Entity Relationship Diagram (ERD) specifies the relationship across tables.
+Entity Relationship Diagram (ERD) specifies the relationship across tables.
 
-    sql_querries compiles a series of querries that can be run against the database to gather insights 
+sql_querries compiles a series of querries that can be run against the database to gather insights 
